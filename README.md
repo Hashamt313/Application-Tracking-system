@@ -28,4 +28,9 @@ The project provides an interactive interface using **Streamlit** and stores mon
 
 ## Required Python Packages
 Before running the project, make sure the following Python packages are installed:
-
+streamlit
+psutil
+datetime
+ openpyxl
+ os
+ uiautomation
